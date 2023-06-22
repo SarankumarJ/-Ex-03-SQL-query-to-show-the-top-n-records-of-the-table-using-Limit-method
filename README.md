@@ -1,4 +1,4 @@
-## Ex-17 SQL query to show the top n records of the table using Limit method
+## Ex-03 SQL query to show the top n records of the table using Limit method
 ## AIM:-
 To write a sql query to show the top n records of the table using Limit method.
 
