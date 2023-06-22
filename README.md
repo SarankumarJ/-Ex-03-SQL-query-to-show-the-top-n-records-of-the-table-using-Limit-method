@@ -1,4 +1,4 @@
-# Ex-03-SQL-query-to-show-the-top-n-records-of-the-table-using-Limit-method
+## Ex-17 SQL query to show the top n records of the table using Limit method
 ## AIM:-
 To write a sql query to show the top n records of the table using Limit method.
 
@@ -16,6 +16,8 @@ Insert Value to the tables.
 Select top n records in table using limit method.
 
 ### PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE ORG;
 SHOW DATABASES;
